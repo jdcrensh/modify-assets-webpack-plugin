@@ -1,11 +1,12 @@
 {
-  "name": "webpack-modify-assets-plugin",
+  "name": "modify-assets-webpack-plugin",
   "version": "0.1.0",
-  "description": "Plugin to modify build asset sources before they are output to files",
+  "description": "Plugin to modify build sources prior to being written to the filesystem",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "jdcrensh@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "jdcrensh/modify-assets-webpack-plugin"
 }
