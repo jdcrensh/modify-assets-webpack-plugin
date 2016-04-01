@@ -1,0 +1,11 @@
+{
+  "name": "webpack-modify-assets-plugin",
+  "version": "0.1.0",
+  "description": "Plugin to modify build asset sources before they are output to files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jdcrensh@gmail.com",
+  "license": "MIT"
+}
