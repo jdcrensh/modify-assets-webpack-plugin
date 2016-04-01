@@ -1,3 +1,3 @@
-# webpack-modify-assets-plugin
+# modify-assets-webpack-plugin
 
-Plugin to modify build asset sources before they are output to files
+Plugin to modify build sources prior to being written to the filesystem
