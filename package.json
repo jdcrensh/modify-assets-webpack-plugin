@@ -1,6 +1,6 @@
 {
   "name": "modify-assets-webpack-plugin",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Plugin to modify build sources prior to being written to the filesystem",
   "main": "index.js",
   "scripts": {
